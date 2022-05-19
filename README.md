@@ -1,6 +1,6 @@
 # GeneticAlgorithm
 A completely scratch-built genetic algorithm class written in python.
-- Requires only Numpy and random, which are both preinstalled.
+- Requires only Numpy.
 
 How it works:
 A genetic algorithm, as the name implies, simulates biological evolution in code in order to solve (or estimate) a given problem.
